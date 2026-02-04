@@ -3,6 +3,8 @@
 [![Status](https://img.shields.io/badge/Status-Phase%200%20In%20Progress-yellow)](https://github.com/davidcockson-compliance/saasx-soc2-certification)
 [![SOC 2](https://img.shields.io/badge/SOC%202-Type%20II-blue)](https://www.aicpa.org/soc)
 
+> **Note:** This is an educational/demonstration project for a fictional company 'SaaSX'. No real compliance data is contained in this repository. This project serves as a template and learning resource for understanding SOC 2 Type II certification processes.
+
 ## 📋 Overview
 
 This repository contains the comprehensive documentation, policies, procedures, and evidence collection framework for SaaSX's SOC 2 Type II certification project. SOC 2 Type II demonstrates that our organization has implemented and operates effective controls over security, availability, processing integrity, confidentiality, and privacy over a specified time period (typically 6-12 months).
@@ -256,15 +258,6 @@ Example: POLICY-Access-Control-v1.0-20251015.md
 |------|---------|-------------|--------|
 | 2025-10-15 | 0.1 | Initial project setup | TBD |
 
-## 🔒 Confidentiality
-
-This repository contains sensitive compliance documentation. Access is restricted to:
-- SaaSX compliance team members
-- Designated auditors
-- Executive leadership with NDA
-
-**Do not share outside authorized personnel.**
-
 ## 📧 Contact
 
 **Compliance Lead:** [Name] - [email]  
@@ -273,8 +266,7 @@ This repository contains sensitive compliance documentation. Access is restricte
 
 ## License
 
-Proprietary and Confidential - SaaSX Inc.  
-All rights reserved © 2025
+MIT License - This educational project is open source and freely available for learning and reference purposes.
 
 ---
 
